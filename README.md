@@ -4,6 +4,9 @@ A complete Python project featuring a premium **Streamlit** web interface that s
 
 ---
 
+ ## Demo Video
+
+         https://dataqualityagent-dnee7zzsjqjutjtfignsoq.streamlit.app/
 
 ## Key Features
 
@@ -112,6 +115,6 @@ The application will launch and open automatically in your browser:
    - Display duplicate rows, missing names/emails, negative ages, and outliers in the **Detected Errors** textbox.
    - Request suggestions from OpenRouter and print the clean-up plan and Python script in the **AI Suggestions** textbox.
   
-4. Runnig App Link
+## 5. Runnig App Link
 
            https://dataqualityagent-dnee7zzsjqjutjtfignsoq.streamlit.app/
